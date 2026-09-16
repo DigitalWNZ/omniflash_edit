@@ -1,0 +1,5 @@
+On the tall metallic pillar monument on the lawn, replace the text "FTC 丰泰城" with "康陶 Kangtao", matching the original 3D metallic lettering style, perspective, and alignment. 
+
+Transform the overall scene lighting from overcast to bright sunshine, adding realistic sun highlights and natural cast shadows across the ground, pillar, and surrounding buildings. 
+
+Ensure consistent lighting, accurate perspective tracking, and smooth temporal continuity throughout the camera motion.

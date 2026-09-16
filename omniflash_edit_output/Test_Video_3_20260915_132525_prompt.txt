@@ -1,0 +1,3 @@
+Replace the black SUV marked in the red box with a realistic military tank, matching its trajectory, scale, perspective, and motion through the intersection. 
+
+Change the overall scene lighting from daytime to night, adding realistic night illumination, glowing streetlights, building interior lights, and vehicle headlights with accurate ground reflections and dynamic cast shadows. Maintain natural motion continuity and seamless physical realism throughout.

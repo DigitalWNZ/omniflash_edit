@@ -1,0 +1,5 @@
+Remove the "FTC 丰泰城" lettering and logo from the tall metal pillar monument and replace it with "康陶 Kangtao", matching the original font style, metallic material, perspective, and alignment. 
+
+Transform the overall scene lighting from overcast to bright sunshine, adding clear blue skies with sunny illumination, sharp realistic cast shadows, and natural specular highlights across the ground, trees, buildings, and pillar. 
+
+Ensure consistent tracking, perspective, scale, and motion continuity throughout the camera movement with no visual artifacts.

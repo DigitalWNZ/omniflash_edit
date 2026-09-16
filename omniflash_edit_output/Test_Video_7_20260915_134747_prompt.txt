@@ -1,0 +1,1 @@
+Remove all the parked electric scooters, mopeds, and bicycles lined up along the paved sidewalk between the lawn and the roadside hedges. Seamlessly reconstruct the underlying pavement, curb, and background hedges where the vehicles were removed. Ensure consistent ground textures, lighting, shadows, and temporal continuity as the camera pans.

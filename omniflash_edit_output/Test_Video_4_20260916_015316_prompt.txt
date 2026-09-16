@@ -1,0 +1,1 @@
+Remove the white car driving across the intersection in the middle ground, positioned behind the yellow taxi and beside the dark SUV. Seamlessly inpaint the roadway and background traffic behind it, maintaining natural road markings, consistent lighting, reflections, and motion continuity throughout the video. Leave all other vehicles, pedestrians, and surroundings unchanged.

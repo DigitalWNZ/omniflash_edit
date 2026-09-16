@@ -1,0 +1,3 @@
+Make the large, curved dark LED billboard mounted on the lower facade of the curved glass building, directly above the HONOR entrance, play a dynamic animation of the provided reference image showing a glowing black hole with an accretion disk. 
+
+Map the animation accurately onto the curved display surface, matching the screen's perspective, curvature, and edges throughout the camera's motion. Maintain realistic illumination, emissive display glow, and reflections consistent with the overcast outdoor environment. Keep the building architecture, plaza, surrounding foliage, and all other elements unchanged.

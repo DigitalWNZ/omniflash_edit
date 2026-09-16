@@ -1,0 +1,1 @@
+Remove the white SUV traveling through the intersection behind the yellow taxi and beside the dark SUV. Seamlessly inpaint the road surface, background vehicles, and surrounding environment, ensuring consistent lighting, shadow removal, correct perspective, and temporal continuity without artifacts.

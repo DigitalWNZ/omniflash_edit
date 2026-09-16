@@ -1,0 +1,1 @@
+Remove all parked electric scooters, mopeds, and bicycles along the sidewalk parking strip next to the hedge and roadway. Inpaint the cleared ground seamlessly to match the adjacent paved sidewalk texture, maintaining natural lighting, correct shadows, and seamless continuity across all frames. Keep the trees, hedges, road, and background elements unchanged.

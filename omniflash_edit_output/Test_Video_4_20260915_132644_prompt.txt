@@ -1,0 +1,1 @@
+Seamlessly remove and erase the white car indicated in the red box (driving in the intersection behind the yellow taxi). Inpaint the revealed street, road markings, and background traffic naturally, ensuring consistent lighting, shadows, perspective, and motion continuity without visual artifacts.
