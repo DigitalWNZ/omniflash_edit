@@ -1,0 +1,1 @@
+Replace the dark police SUV driving across the intersection with a military tank, matching its movement path, scale, perspective, and environmental lighting. Leave all other vehicles, pedestrians, background buildings, and surroundings unchanged.

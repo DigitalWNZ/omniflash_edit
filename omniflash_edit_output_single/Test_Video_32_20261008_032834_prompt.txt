@@ -1,0 +1,1 @@
+Change the overall lighting of the video to nighttime. Adjust the illumination across the entire scene, including the dark police SUV (marked "特警 POLICE") driving through the intersection, street surfaces, buildings, and surroundings to reflect nighttime conditions, while keeping all motion, vehicles, and scene elements unchanged.

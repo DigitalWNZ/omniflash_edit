@@ -1,0 +1,1 @@
+Change the overall lighting of the video to bright sunshine. Illuminate the scene—including the tall vertical metallic signpost reading "FTC" and "FINTECH CITY", the walkway, surrounding greenery, and buildings—with bright, direct sunlight and corresponding natural shadows. Keep all objects, geometries, textures, and camera motion exactly the same.

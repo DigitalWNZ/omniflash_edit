@@ -1,0 +1,1 @@
+Change the overall video lighting from daytime to night across the entire scene, including the street, buildings, and the black police SUV driving through the intersection, realistically adapting illumination and shadows while keeping all motion and elements unchanged.
